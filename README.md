@@ -172,7 +172,7 @@ You will want to provide a path to the php executable file (php-cgi.exe)).
   
 13.) Install osTicket v1.15.8
   -Download osTicket from the Installation Files Folder
-  -Extract and copy "upload" folder to c:\inetpub\wwwroot
+  -Extract and copy (drag and drop) "upload" folder to c:\inetpub\wwwroot
   -Within c:\inetpub\root, Rename "upload" to "osTicket"
   
   Reload IIS again.
